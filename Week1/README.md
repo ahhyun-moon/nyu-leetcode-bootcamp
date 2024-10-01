@@ -2,7 +2,7 @@
 
 ## Practice Problems
 ### 1. Merge Intervals [(Leetcode 56)](https://leetcode.com/problems/merge-intervals/description/) 
-  - [My Solution]()
+  - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_56.py)
 ### 2. Best time to buy and sell stock [(Leetcode 121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
   - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_121.py)
 ### 3. Container With Most Water [(Leetcode 11)](https://leetcode.com/problems/container-with-most-water/description/) 

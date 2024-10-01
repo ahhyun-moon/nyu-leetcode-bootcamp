@@ -1,17 +1,22 @@
-## Week 1: Lists, Arrays, Sorting
+# Week 1: Lists, Arrays, Sorting
 
-### Problem solving patterns
-  -   Two-Pointer Approach
-  -   Sliding Window Technique
+## Practice Problems
+### 1. Merge Intervals [(Leetcode 56)](https://leetcode.com/problems/merge-intervals/description/) 
+  - [My Solution]()
+### 2. Best time to buy and sell stock [(Leetcode 121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+  - [My Solution]()
+### 3. Container With Most Water [(Leetcode 11)](https://leetcode.com/problems/container-with-most-water/description/) 
+  - [My Solution]()
+### 4. Maximum Product Subarray [(Leetcode 152)](https://leetcode.com/problems/maximum-product-subarray/description/) 
+  - [My Solution]()
 
-### Practice Problems
+## HW Problems: TBD
 
-#### 1. Merge Intervals [(Leetcode 56)](https://leetcode.com/problems/merge-intervals/description/) -> [My Solution]()
-#### 2. Best time to buy and sell stock [(Leetcode 121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) -> [My Solution]()
-#### 3. Container With Most Water [(Leetcode 11)](https://leetcode.com/problems/container-with-most-water/description/) -> [My Solution]()
-#### 4. Maximum Product Subarray [(Leetcode 152)](https://leetcode.com/problems/maximum-product-subarray/description/) -> [My Solution]()
+## Problem solving patterns
+-   Two-Pointer Approach
+-   Sliding Window Technique
 
-### Helpful Resources
+## Helpful Resources
 - [Exercism: Python Lists](https://exercism.org/tracks/python/concepts/lists)
 - [Python.org: List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 - [Python.org: Sequence Types - list, tuple, range](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)

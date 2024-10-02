@@ -12,7 +12,7 @@
 
 ## HW Problems: TBD
 
-## Problem solving patterns
+## Problem Solving Patterns
 -   Two-Pointer Approach
 -   Sliding Window Technique
 

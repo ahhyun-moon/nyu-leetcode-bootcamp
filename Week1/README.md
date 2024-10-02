@@ -10,10 +10,15 @@
 ### 4. Maximum Product Subarray [(Leetcode 152)](https://leetcode.com/problems/maximum-product-subarray/description/) 
   - [My Solution]()
 
-## HW Problems: TBD
+## HW Problems: 
+### 1. Two Sum II - Input Array Is Sorted [(Leetcode 167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+  - [My Solution]()
+### 2. Products of array discluding self [(Leetcode 238)](https://leetcode.com/problems/product-of-array-except-self/description/)
+  - [My Solution]()
+### 3. Sort Colors  [(Leetcode 75)](https://leetcode.com/problems/sort-colors/description/)
+  - [My Solution]()
 
 ## Study Notes
-
 ### Problem Solving Patterns
   - **Two-Pointer Approach**
     ![](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/TwoPointerApproach.png)

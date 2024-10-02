@@ -12,9 +12,12 @@
 
 ## HW Problems: TBD
 
-## Problem Solving Patterns
--   Two-Pointer Approach
--   Sliding Window Technique
+## Study Notes
+
+- Problem Solving Patterns
+  - Two-Pointer Approach
+  - Sliding Window Technique
+- Kadane's Algorithm (for [leetcode 53 - maximum subarray problem](https://leetcode.com/problems/maximum-subarray/description/))
 
 ## Helpful Resources
 - [Exercism: Python Lists](https://exercism.org/tracks/python/concepts/lists)

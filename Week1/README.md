@@ -10,7 +10,7 @@
 ### 4. Maximum Product Subarray [(Leetcode 152)](https://leetcode.com/problems/maximum-product-subarray/description/) 
   - [My Solution]()
 
-## HW Problems: 
+## HW Problems
 ### 1. Two Sum II - Input Array Is Sorted [(Leetcode 167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
   - [My Solution]()
 ### 2. Products of array discluding self [(Leetcode 238)](https://leetcode.com/problems/product-of-array-except-self/description/)

@@ -14,10 +14,16 @@
 
 ## Study Notes
 
-- Problem Solving Patterns
-  - Two-Pointer Approach
-  - Sliding Window Technique
-- Kadane's Algorithm (for [leetcode 53 - maximum subarray problem](https://leetcode.com/problems/maximum-subarray/description/))
+### Problem Solving Patterns
+  - **Two-Pointer Approach**
+    ![](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/TwoPointerApproach.png)
+    Source: https://github.com/Kumuda123/NYU-Tandon-LeetCode-Bootcamp-Fall-2024/tree/main/Week%201%3A%20Lists%2C%20Arrays%20%26%20Sorting
+
+  - **Sliding Window Technique**
+    ![](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/SlidingWindowApproach.png)
+    Source: https://github.com/Kumuda123/NYU-Tandon-LeetCode-Bootcamp-Fall-2024/tree/main/Week%201%3A%20Lists%2C%20Arrays%20%26%20Sorting
+
+- **Kadane's Algorithm** (for [leetcode 53 - maximum subarray problem](https://leetcode.com/problems/maximum-subarray/description/))
 
 ## Helpful Resources
 - [Exercism: Python Lists](https://exercism.org/tracks/python/concepts/lists)

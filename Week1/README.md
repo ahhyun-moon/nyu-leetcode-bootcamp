@@ -16,7 +16,7 @@
 ### 2. Products of array discluding self [(Leetcode 238)](https://leetcode.com/problems/product-of-array-except-self/description/)
   - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_238.py)
 ### 3. Sort Colors  [(Leetcode 75)](https://leetcode.com/problems/sort-colors/description/)
-  - [My Solution]()
+  - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_75.py)
 
 ## Study Notes
 ### Problem Solving Patterns

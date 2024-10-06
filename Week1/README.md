@@ -12,9 +12,9 @@
 
 ## HW Problems
 ### 1. Two Sum II - Input Array Is Sorted [(Leetcode 167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-  - [My Solution]()
+  - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_167.py)
 ### 2. Products of array discluding self [(Leetcode 238)](https://leetcode.com/problems/product-of-array-except-self/description/)
-  - [My Solution]()
+  - [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week1/leetcode_238.py)
 ### 3. Sort Colors  [(Leetcode 75)](https://leetcode.com/problems/sort-colors/description/)
   - [My Solution]()
 

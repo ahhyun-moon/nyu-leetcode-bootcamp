@@ -1,4 +1,4 @@
-# Week 1: Lists, Arrays, Sorting
+# Week 2: Strings and HashMap
 
 ## Practice Problems
 

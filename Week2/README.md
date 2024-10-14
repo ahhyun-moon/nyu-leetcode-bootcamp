@@ -26,7 +26,7 @@
 
 ### 1. String to Integer (atoi) [(Leetcode 8)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week2/leetcode_8.py)
 
 ### 2. Find All Anagrams in a String [(Leetcode 438)](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 

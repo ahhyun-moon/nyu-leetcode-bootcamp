@@ -4,19 +4,19 @@
 
 ### 1. Valid Palindrome [(Leetcode 125)](https://leetcode.com/problems/valid-palindrome/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week2/leetcode_125.py)
 
 ### 2. Subdomain Visit Count [(Leetcode 811)](https://leetcode.com/problems/subdomain-visit-count/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week2/leetcode_811.py)
 
 ### 3. Two Sum [(Leetcode 1)](https://leetcode.com/problems/two-sum/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week2/leetcode_1.py)
 
 ### 4. Longest Substring without repeating characters [(Leetcode 3)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week2/leetcode_3.py)
 
 ### 5. Group Anagrams [(Leetcode 5)](https://leetcode.com/problems/group-anagrams/description/)
 

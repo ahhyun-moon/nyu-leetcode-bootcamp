@@ -34,7 +34,7 @@
 
 ### 3. Set Matrix Zeroes [(Leetcode 73)](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week3/leetcode_73.py)
 
 ## Study Notes
 

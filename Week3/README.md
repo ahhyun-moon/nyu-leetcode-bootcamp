@@ -26,7 +26,7 @@
 
 ### 1. Palindrome Linked List [(Leetcode 234)](https://leetcode.com/problems/palindrome-linked-list/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week3/leetcode_234.py)
 
 ### 2. Remove Nth Node From End of List [(Leetcode 19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 

@@ -30,7 +30,7 @@
 
 ### 2. Remove Nth Node From End of List [(Leetcode 19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week3/leetcode_19.py)
 
 ### 3. Set Matrix Zeroes [(Leetcode 73)](https://leetcode.com/problems/set-matrix-zeroes/description/)
 

@@ -4,37 +4,37 @@
 
 ### 1. Middle of Linked List [(Leetcode 876)](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 2. Reverse Linked List [(Leetcode 206)](https://leetcode.com/problems/reverse-linked-list/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 3. Reorder List [(Leetcode 143)](https://leetcode.com/problems/reorder-list/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 4. Valid Sudoku [(Leetcode 36)](https://leetcode.com/problems/valid-sudoku/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 5. Rotate Image [(Leetcode 48)](https://leetcode.com/problems/rotate-image/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ## HW Problems
 
 ### 1. Palindrome Linked List [(Leetcode 234)](https://leetcode.com/problems/palindrome-linked-list/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 2. Remove Nth Node From End of List [(Leetcode 19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
--   [My Solution]()
+-   [My Solution]
 
 ### 3. Set Matrix Zeroes [(Leetcode 73)](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
--   [My Solution]()
+-   [My Solution]
 
 ## Study Notes
 

@@ -40,16 +40,14 @@
 
 ### Problem Solving Patterns
 
--   **Hash Map**
+-   Fast and Slow Pointers
+    <img src="./FastSlowPointers.png" width="80%"/>
 
--   -   Fast and Slow Pointers
-        <img src="./FastSlowPointers.png" width="80%"/>
+-   In-place Reversal of a Linked List
+    <img src="./InPlaceReversal.png" width="80%"/>
 
--   -   In-place Reversal of a Linked List
-        <img src="./InPlaceReversal.png" width="80%"/>
-
--   -   Matrices
-        <img src="./Matrices.png" width="80%"/>
+-   Matrices
+    <img src="./Matrices.png" width="80%"/>
 
         Source: https://github.com/Kumuda123/NYU-Tandon-LeetCode-Bootcamp-Fall-2024/tree/main/Week%202%3A%20Strings%20%26%20HashMap
 

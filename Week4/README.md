@@ -30,15 +30,15 @@
 
 ### 1. Implement Queue using Stacks [(Leetcode 232)](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week4/leetcode_232.py)
 
 ### 2. Decode String [(Leetcode 394)](https://leetcode.com/problems/decode-string/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week4/leetcode_394.py)
 
 ### 3. Number of people aware of a secret [(Leetcode 2327)](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week4/leetcode_2327.py)
 
 ## Helpful Resources
 

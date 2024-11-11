@@ -4,11 +4,17 @@
 
 ## HW Problems
 
-### 1. Lowest Common Ancestor of a Binary Tree [Leetcode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+### 1. Lowest Common Ancestor of a Binary Tree [(Leetcode 236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
-### 2. Top K Frequent Elements [Leetcode 347](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=heap-priority-queue)
+-   [My Solution]
 
-### 3. Word Break [Leetcode 139](https://leetcode.com/problems/word-break/editorial/?envType=problem-list-v2&envId=trie) (Optional)
+### 2. Top K Frequent Elements [(Leetcode 347)](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=heap-priority-queue)
+
+-   [My Solution]
+
+### 3. Word Break [(Leetcode 139)](https://leetcode.com/problems/word-break/editorial/?envType=problem-list-v2&envId=trie) - (Optional)
+
+-   [My Solution]
 
 ## Helpful Resources
 

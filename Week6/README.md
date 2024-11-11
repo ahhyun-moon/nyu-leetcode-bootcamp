@@ -1,4 +1,4 @@
-# Week 4: Tree, Trie & Heap
+# Week 6: Tree, Trie & Heap
 
 ## Practice Problems
 

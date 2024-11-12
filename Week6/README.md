@@ -6,11 +6,11 @@
 
 ### 1. Lowest Common Ancestor of a Binary Tree [(Leetcode 236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week6/leetcode_236.py)
 
 ### 2. Top K Frequent Elements [(Leetcode 347)](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=heap-priority-queue)
 
--   [My Solution]
+-   [My Solution](https://github.com/ahhyun-moon/nyu-leetcode-bootcamp/blob/main/Week6/leetcode_347.py)
 
 ### 3. Word Break [(Leetcode 139)](https://leetcode.com/problems/word-break/editorial/?envType=problem-list-v2&envId=trie) - (Optional)
 

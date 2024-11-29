@@ -13,9 +13,9 @@ class Solution:
         # Store prefix sum as we scan through the list
         # If accumulated sum is less than the current number, 
         # Replace the max sum with the current number and start the prefix sum at curr num
-        max_sum = float('-inf')
-        curr_sum = 0
-        for num in nums:
+        max_sum = nums[0]
+        curr_sum = nums[0]
+        for num in nums[1:]:
             curr_sum = max(curr_sum + num, num)
             max_sum = max(curr_sum, max_sum)
         return max_sum
